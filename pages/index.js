@@ -16,7 +16,8 @@ export default function Home() {
           Welcome to Custom Lights & Iron!
         </h1>
 
-        <p className={styles.description}>
+//Commenting out all this stuff
+       /* <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
@@ -46,11 +47,11 @@ export default function Home() {
           >
             <h2>Deploy &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly deploy your Next.js site to a public URL with Vercel. 
             </p>
-          </a>
+          </a> 
         </div>
-      </main>
+      </main>*/
 
       <footer className={styles.footer}>
         <a
