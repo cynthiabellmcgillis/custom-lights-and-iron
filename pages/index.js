@@ -15,11 +15,10 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to Custom Lights & Iron!
         </h1>
-
-//Commenting out all this stuff
-       /* <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+        {/*}
+        <p className={styles.description}>
+         Get started by editing{' '}
+         <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
@@ -51,8 +50,9 @@ export default function Home() {
             </p>
           </a> 
         </div>
-      </main>*/
-
+      {*/}
+      </main>
+      {/*}
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -65,6 +65,7 @@ export default function Home() {
           </span>
         </a>
       </footer>
+    {*/}
     </div>
   )
 }
