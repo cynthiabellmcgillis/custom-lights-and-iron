@@ -1,7 +1,7 @@
 import React from "react";
 import {motion, MotionConfig} from "framer-motion";
 
-const images = ['imagetest.png'];
+const images = ['drivegate1.jpeg','drivegate2.jpeg'];
 
 
 
